@@ -1,0 +1,10 @@
+Compose a code in assembly language to give a logical left shift to a 32-bit number of your own choice. Apply the concept of extended shifting. Assume that you are working on an 8-bit architecture and the maximum space that can be utilized is of 8-bits.
+
+-Save the .asm file in the format given as: "q2_last 3 digits of your roll number"
+-Write your complete roll number as a comment in the end of your .asm file.
+-Upload .asm file along with .lst file of your code.
+-Upload the screenshot of DosBox and all the individual screenshots of your results.
+-Your results should show the original number in 32-bits and the shifted version of it in 32-bit (use calculator or conversion panel of notepad++ for this purpose). 
+-You should also verify the arithmetic operation done by shifting the number logical left on the resulting number.
+
+Note: Just write to the point code. Avoid extra steps.

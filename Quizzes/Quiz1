@@ -1,0 +1,4 @@
+Compose a code in assembly language to compute the sum of first 8 even numbers. Use a loop such that zero flag is set when the final result is computed. Store your final result in a memory location labelled as your "name_last two digits of your roll number". e.g. Ali_12.
+-Use Register+Offset Addressing in your code.
+-Generate listing file as well.
+-Upload .asm, .lst and screenshots of the Dosbox showing all the necessary commands along with the final result (sum) and zero flag raised.
